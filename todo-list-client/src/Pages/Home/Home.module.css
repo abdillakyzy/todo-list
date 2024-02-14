@@ -1,0 +1,16 @@
+.box_todos {
+    width  : 500px;
+    display: flex;
+}
+
+.home_todos {
+    margin-top: 50px;
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+}
+
+.input {
+    background-color: #ffffff7b;
+    border-radius: 10px;
+}
